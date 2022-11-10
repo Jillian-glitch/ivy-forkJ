@@ -1,0 +1,19 @@
+Statistical
+===========
+
+.. automodule:: ivy.functional.experimental.statistical
+    :members:
+    :special-members: __init__
+    :undoc-members:
+    :show-inheritance:
+
+
+.. toctree::
+   :hidden:
+   :maxdepth: -1
+   :caption: Statistical
+
+   statistical/median.rst
+   statistical/nanmean.rst
+   statistical/unravel_index.rst
+
